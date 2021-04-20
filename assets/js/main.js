@@ -54,7 +54,7 @@ function startGame() {
         player.gameover = false;
         gameover.style.display = "none";
         player.score = 0;
-        player.lives = 5;
+        player.lives = 3;
         player.inPlay = false;
         ball.style.display = "block";
         ball.style.left = paddle.offsetLeft + 50 + "px";
