@@ -13,7 +13,7 @@
 .lives {
     font-size: 3em;
 }
-
+/* Ball and Brick */
 .brick {
     position: absolute;
     top: 0;
